@@ -202,12 +202,6 @@
 作者:"包内未标注"
 图标链接:"https://n6yy5u.gicp.fun/avatar.bmp"
 ---
-歌手名:"嵐峰レイヤ ENG C+V"
-歌手下载直链:"https://utauzip.page.gd/download.php?id=9"
-简介:"嵐峰レイヤ ENG C+V 英语 EN C+V"
-作者:"包内未标注"
-图标链接:"https://1ids0h.gicp.fun/avatar.bmp"
----
 歌手名:"岚峰レイヤ-CHN CVVC统合"
 歌手下载直链:"https://utauzip.page.gd/download.php?id=8"
 简介:"岚峰レイヤ-CHN CVVC统合 中文（普通话） ZH CVVC"
