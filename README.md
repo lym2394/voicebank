@@ -73,6 +73,6 @@
 歌手名:"空音スラン"
 歌手下载直链:"https://u0hkzf.gicp.fun/02_1.0Re.zip"
 简介:"好kawai!!!"
-作者:"云海星梦2394"
+作者:"未知"
 图标链接:"https://u0hkzf.gicp.fun/avatar.png"
 ---
