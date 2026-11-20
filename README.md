@@ -232,3 +232,9 @@
 作者:"アシオ。(https://space.bilibili.com/1268702830)"
 图标链接:"https://gxd3r0.gicp.fun/avatar.png"
 ---
+歌手名:"弦音ハルカ"
+歌手下载直链:"https://lanzoulink.10001mb.com/弦音ハルカ（2.0）(1).zip"
+简介:"日语CV"
+作者:"弦音"
+图标链接:"https://lanzoulink.10001mb.com/icon.bmp"
+---
